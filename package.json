@@ -1,0 +1,18 @@
+{
+  "name": "48scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "whats-your-score.com ◄ Get Your FREE Credit Score whats-your-score.com, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "whats-your-score.com",
+"minimal credit score for home loan",
+"credit score 757",
+"credit score to get apple card",
+"credit score quizlet"
+  ],
+  "repository": "https://github.com/truelestor/48scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
